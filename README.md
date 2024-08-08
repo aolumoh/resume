@@ -1,1 +1,1 @@
-Take a look at my (resume)[https://aolumoh.github.io/resume/]
+Take a look at my [https://aolumoh.github.io/resume/](resume)
